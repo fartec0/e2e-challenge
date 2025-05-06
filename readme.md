@@ -51,4 +51,15 @@
 
 ---
 
+## Submitting Your Test
+
+After completing the challenge, please follow these steps to submit your work for evaluation:
+
+1. Create a new **private repository** on GitHub.
+2. Add a new readme or edit this one with the instructions about how to run your tests
+3. Add the following GitHub user as a collaborator so we can access and review your solution:
+`gabrielbs`, `hugodom`
+
+---
+
 **Happy Testing!**
